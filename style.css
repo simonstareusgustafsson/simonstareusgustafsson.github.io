@@ -16,7 +16,7 @@ body {
 .site-header {
   max-width: 1200px;
   margin: 0 auto;
-  padding-top: 220px;
+  padding-top: 195px;
   padding-left: 48px;
   padding-right: 24px;
   padding-bottom: 0;
@@ -55,7 +55,7 @@ body {
 
 @media (max-width: 1000px) {
   .site-header {
-    padding-top: 130px;
+    padding-top: 90px;
     padding-left: 32px;
     padding-right: 20px;
   }
@@ -80,7 +80,7 @@ body {
 
 @media (max-width: 700px) {
   .site-header {
-    padding-top: 100px;
+    padding-top: 60px;
     padding-left: 20px;
     padding-right: 16px;
   }
